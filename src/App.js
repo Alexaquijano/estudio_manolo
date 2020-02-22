@@ -1,12 +1,12 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import ejemploSelect from "./ejemploSelect";
+import EjemploSelect from "./ejemploSelect";
 
 function App() {
   return (
-    <div className="App">
-     <ejemploSelect></ejemploSelect>
+    <div >
+     <EjemploSelect></EjemploSelect>
      
     </div>
   );
